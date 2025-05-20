@@ -1,24 +1,52 @@
-<h1 align="center">Hi 👋, I'm Yasmeen Rafique</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right"alt="coding"width="400"src="https://i.cbc.ca/1.3987072.1487286581!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/girl-coding.jpg">
+<h1 align="center">👩‍💻 Yasmeen Rafique</h1>
+<p align="center"><i>Aspiring Data Analyst | Driven by Curiosity, Powered by Data</i></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmeenrafique&label=Profile%20views&color=0e75b6&style=flat" alt="yasmeenrafique" /> </p>
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yasmeen rafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmeen rafique" height="30" width="40" /></a>
-<a href="https://discord.gg/Yasmeen Rafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yasmeen Rafique" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue" alt="Role Badge" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen" alt="Learning Badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Projects-orange" alt="Remote Badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmeenrafique&show_icons=true&locale=en&layout=compact" alt="yasmeenrafique" /></p>
+<h2>👋 About Me</h2>
+<p>
+I'm <strong>Yasmeen Rafique</strong>, an aspiring <strong>Data Analyst</strong> with a passion for transforming raw data into meaningful insights. With a strong foundation in analytical tools and a curiosity-driven mindset, I enjoy solving real-world problems through data visualization, dashboards, and storytelling.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmeenrafique&show_icons=true&locale=en" alt="yasmeenrafique" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenrafique&" alt="yasmeenrafique" /></p>
+<h2>🧰 Tools & Technologies</h2>
+<ul>
+  <li><strong>Spreadsheet & Data Cleaning:</strong> Microsoft Excel</li>
+  <li><strong>Data Visualization:</strong> Power BI</li>
+  <li><strong>Databases:</strong> SQL (in progress)</li>
+  <li><strong>Programming:</strong> Python (coming soon)</li>
+  <li><strong>Other:</strong> Communication, Problem-Solving, Critical Thinking</li>
+</ul>
+
+---
+
+<h2>🎯 My Goals</h2>
+<ul>
+  <li>📊 Master Power BI and create advanced interactive dashboards</li>
+  <li>🛠️ Learn SQL to query and manage large datasets</li>
+  <li>🐍 Start using Python for data analysis and automation</li>
+  <li>📈 Build a strong portfolio and land freelance/remote data analyst roles</li>
+</ul>
+
+---
+
+<h2>📫 Contact Me</h2>
+<p>
+  📧 Email: <a href="yasmeenrafique89@gmail.com"</a>Yasmeen-rafique <br/>
+  💼 LinkedIn: <a href="www.linkedin.com/in/yasmeen-rafique" target="_blank">linkedIn</a> <br/>
+</p>
+
+---
+
+<p align="center">
+  🚀 "Data is the new oil, and I’m learning how to refine it."
+</p>
 
 
