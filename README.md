@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Yasmeen Rafique</h1>
-<p align="center"><i>Aspiring Data Analyst | Driven by Curiosity, Powered by Data</i></p>
+<p align="center"><i> Business Intelligence passionate | Driven by Curiosity, Powered by Data</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue" alt="Role Badge" />
@@ -11,7 +11,7 @@
 
 <h2>👋 About Me</h2>
 <p>
-I'm <strong>Yasmeen Rafique</strong>, an aspiring <strong>Business Analyst</strong> with a passion for transforming raw data into meaningful insights. With a strong foundation in analytical tools and a curiosity-driven mindset, I enjoy solving real-world problems through data visualization, dashboards, and storytelling.
+I'm <strong>Yasmeen Rafique</strong>, an aspiring <strong>Business intelligence Analyst</strong> with a passion for transforming raw data into meaningful insights. With a strong foundation in analytical tools and a curiosity-driven mindset, I enjoy solving real-world problems through data visualization, dashboards, and storytelling.
 </p>
 
 ---
