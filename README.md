@@ -2,7 +2,7 @@
 <p align="center"><i> Business Intelligence passionate | Driven by Curiosity, Powered by Data</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue" alt="Role Badge" />
+  <img src="https://img.shields.io/badge/Role-BI%20Analyst-blue" alt="Role Badge" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen" alt="Learning Badge" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Projects-orange" alt="Remote Badge" />
 </p>
