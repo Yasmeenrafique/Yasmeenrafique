@@ -11,7 +11,7 @@
 
 <h2>👋 About Me</h2>
 <p>
-I'm <strong>Yasmeen Rafique</strong>, an aspiring <strong>Data Analyst</strong> with a passion for transforming raw data into meaningful insights. With a strong foundation in analytical tools and a curiosity-driven mindset, I enjoy solving real-world problems through data visualization, dashboards, and storytelling.
+I'm <strong>Yasmeen Rafique</strong>, an aspiring <strong>Business Analyst</strong> with a passion for transforming raw data into meaningful insights. With a strong foundation in analytical tools and a curiosity-driven mindset, I enjoy solving real-world problems through data visualization, dashboards, and storytelling.
 </p>
 
 ---
