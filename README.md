@@ -20,8 +20,8 @@ I'm <strong>Yasmeen Rafique</strong>, an aspiring <strong>Business intelligence 
 <ul>
   <li><strong>Spreadsheet & Data Cleaning:</strong> Microsoft Excel</li>
   <li><strong>Data Visualization:</strong> Power BI</li>
-  <li><strong>Databases:</strong> SQL (in progress)</li>
-  <li><strong>Programming:</strong> Python (coming soon)</li>
+  <li><strong>Databases:</strong> SQL (progress)</li>
+  <li><strong>Programming:</strong> Python </li>
   <li><strong>Other:</strong> Communication, Problem-Solving, Critical Thinking</li>
 </ul>
 
