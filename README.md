@@ -27,15 +27,7 @@ I'm <strong>Yasmeen Rafique</strong>, an aspiring <strong>Business intelligence 
 
 ---
 
-<h2>🎯 My Goals</h2>
-<ul>
-  <li>📊 Master BI and create advanced interactive dashboards</li>
-  <li>🛠️ Learn SQL to query and manage large datasets</li>
-  <li>🐍 Start using Python for data analysis and automation</li>
-  <li>📈 Build a strong command and get into BI analyst roles</li>
-</ul>
 
----
 
 <h2>📫 Contact Me</h2>
 <p>
